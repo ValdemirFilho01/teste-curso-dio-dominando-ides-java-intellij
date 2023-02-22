@@ -6,7 +6,7 @@ public class PrimeiroPrograma {
     public static void main(String[] args) {
         Gato gato = new Gato();
 
-        Livro livro1 = new Livro("kkk", 300);
+        Livro livro1 = new Livro("kk", 300);
         System.out.println(livro1);
 
 //       * int a = 5;
